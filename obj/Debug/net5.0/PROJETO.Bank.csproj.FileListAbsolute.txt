@@ -1,0 +1,16 @@
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\PROJETO.Bank.csproj.AssemblyReference.cache
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\PROJETO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\PROJETO.Bank.AssemblyInfoInputs.cache
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\PROJETO.Bank.AssemblyInfo.cs
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\PROJETO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\bin\Debug\net5.0\PROJETO.Bank.exe
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\bin\Debug\net5.0\PROJETO.Bank.deps.json
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\bin\Debug\net5.0\PROJETO.Bank.runtimeconfig.json
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\bin\Debug\net5.0\PROJETO.Bank.runtimeconfig.dev.json
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\bin\Debug\net5.0\PROJETO.Bank.dll
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\bin\Debug\net5.0\ref\PROJETO.Bank.dll
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\bin\Debug\net5.0\PROJETO.Bank.pdb
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\PROJETO.Bank.dll
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\ref\PROJETO.Bank.dll
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\PROJETO.Bank.pdb
+C:\Users\Uriel Gomes\Desktop\ProjetosEstudos\PROJETO.Bank\obj\Debug\net5.0\PROJETO.Bank.genruntimeconfig.cache
