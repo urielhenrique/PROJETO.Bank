@@ -1,2 +1,2 @@
 # PROJETO.Bank
-Projeto de um banco.
+Estudo de .NET através de Projeto financeiro com metodos de istituição financeira.
